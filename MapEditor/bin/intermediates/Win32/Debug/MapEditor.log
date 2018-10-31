@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\projects\c++\game\mapeditor\mapeditor\src\class_level.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\mapeditor\mapeditor\src\class_level.h(52): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\mapeditor\mapeditor\src\class_level.h(72): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+c:\projects\c++\game\mapeditor\mapeditor\src\class_level.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\mapeditor\mapeditor\src\class_level.h(91): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(78): warning C4244: 'argumento': conversión de 'float' a 'sf::Uint8'; posible pérdida de datos
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(95): warning C4244: 'argumento': conversión de 'size_t' a 'float'; posible pérdida de datos
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(175): warning C4244: 'inicializando': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(214): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(217): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(223): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\projects\c++\game\mapeditor\mapeditor\src\main.cpp(226): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  MapEditor.vcxproj -> C:\Projects\C++\Game\MapEditor\bin\Win32\Debug\MapEditor.exe

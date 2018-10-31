@@ -1,0 +1,5 @@
+#pragma once
+
+#define GRAVITY_FORCE 981.0f
+#define MULTIPLIER 1.0f
+#define PI 	3.14159265358979323846

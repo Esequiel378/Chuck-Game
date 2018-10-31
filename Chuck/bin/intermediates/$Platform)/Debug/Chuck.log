@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\projects\c++\game\chuck\chuck\src\level.h(98): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\chuck\chuck\src\level.h(111): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\chuck\chuck\src\level.h(122): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\projects\c++\game\chuck\chuck\src\level.h(126): warning C4018: '<': no coinciden signed/unsigned
+c:\projects\c++\game\chuck\chuck\src\main.cpp(75): warning C4018: '<': no coinciden signed/unsigned
+  Chuck.vcxproj -> C:\Projects\C++\Game\Chuck\bin\$Platform)\Debug\Chuck.exe
